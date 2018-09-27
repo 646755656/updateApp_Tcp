@@ -1,0 +1,15 @@
+INPUT(
+./release\main.o
+./release\frmmain.o
+./release\frmtcpserver.o
+./release\crc16.o
+./release\app.o
+./release\quiwidget.o
+./release\tcpserver.o
+./release\qrc_source.o
+./release\moc_frmmain.o
+./release\moc_frmtcpserver.o
+./release\moc_crc16.o
+./release\moc_quiwidget.o
+./release\moc_tcpserver.o
+);

@@ -1,0 +1,15 @@
+INPUT(
+./debug\main.o
+./debug\frmmain.o
+./debug\frmtcpserver.o
+./debug\crc16.o
+./debug\app.o
+./debug\quiwidget.o
+./debug\tcpserver.o
+./debug\qrc_source.o
+./debug\moc_frmmain.o
+./debug\moc_frmtcpserver.o
+./debug\moc_crc16.o
+./debug\moc_quiwidget.o
+./debug\moc_tcpserver.o
+);
